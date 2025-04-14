@@ -56,10 +56,10 @@ Hi guys, deploy MONEY HEIST MD bot and enjoy using it.
 <a href="https://github.com/moneyheistVIP/MONEY-HEIST-VIP/fork"> <img src="https://img.shields.io/badge/money_heist_fork-7300d8?style=for-the-badge&color=7300d8&logoColor=black" width="150" height="40" alt="Fork Repository"> </a>
 
 ## 2. GET PAIR Code Or QR
-<a href="https://webdila-b3093e49c697.herokuapp.com/pair"> <img src="https://img.shields.io/badge/PAIR-d32f2f?style=for-the-badge&color=d32f2f&logoColor=black" width="150" height="40" alt="Get Pair Code"> </a></br>
-<a href="https://webdila-b3093e49c697.herokuapp.com/qr"> <img src="https://img.shields.io/badge/QR-d32f2f?style=for-the-badge&color=d32f2f&logoColor=black" width="150" height="40" alt="Get qr code"> </a>
+<a href="https://moneyheistweb-6dbbc8a1ad4e.herokuapp.com/pair"> <img src="https://img.shields.io/badge/PAIR-d32f2f?style=for-the-badge&color=d32f2f&logoColor=black" width="150" height="40" alt="Get Pair Code"> </a></br>
+<a href="https://moneyheistweb-6dbbc8a1ad4e.herokuapp.com/qr"> <img src="https://img.shields.io/badge/QR-d32f2f?style=for-the-badge&color=d32f2f&logoColor=black" width="150" height="40" alt="Get qr code"> </a>
 </br>
-<a href="https://wa.me/+94728839446?text=.pair"> <img src="https://img.shields.io/badge/COMMAND-d32f2f?style=for-the-badge&color=d32f2f&logoColor=black" width="150" height="40" alt="Get Pair And Qr"> </a>
+<a href="https://wa.me/+94777839446?text=.pair"> <img src="https://img.shields.io/badge/COMMAND-d32f2f?style=for-the-badge&color=d32f2f&logoColor=black" width="150" height="40" alt="Get Pair And Qr"> </a>
 </br>
 
 ## Deploy.
